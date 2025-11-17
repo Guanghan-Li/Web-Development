@@ -1,0 +1,1606 @@
+[
+    {
+        "subject": "General",
+        "type": 1,
+        "question": "Which planet is known as the Red Planet?",
+        "score": 10,
+        "choices": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Mercury"
+        ],
+        "correctChoice": "Mars",
+        "hint": "It's the fourth planet from the Sun."
+    },
+    {
+        "subject": "General",
+        "type": 1,
+        "question": "What color do you get when you mix blue and yellow paint?",
+        "score": 8,
+        "choices": [
+            "Purple",
+            "Green",
+            "Orange",
+            "Brown"
+        ],
+        "correctChoice": "Green"
+    },
+    {
+        "subject": "General",
+        "type": 2,
+        "question": "Name the largest ocean on Earth.",
+        "score": 12,
+        "correctAnswer": [
+            "Pacific Ocean",
+            "Pacific"
+        ],
+        "hint": "It borders the west coast of the Americas."
+    },
+    {
+        "subject": "General",
+        "type": 2,
+        "question": "What is the capital city of Canada?",
+        "score": 10,
+        "correctAnswer": [
+            "Ottawa"
+        ]
+    },
+    {
+        "subject": "General",
+        "type": 3,
+        "question": "The Statue of Liberty was a gift from France to the United States.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "General",
+        "type": 3,
+        "question": "Mount Everest is located in the Andes mountain range.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "False",
+        "hint": "Think about Nepal."
+    },
+    {
+        "subject": "General",
+        "type": 1,
+        "question": "Which instrument is known for its black and white keys?",
+        "score": 7,
+        "choices": [
+            "Guitar",
+            "Flute",
+            "Piano",
+            "Violin"
+        ],
+        "correctChoice": "Piano"
+    },
+    {
+        "subject": "General",
+        "type": 2,
+        "question": "What three-letter abbreviation is commonly used for Saturday?",
+        "score": 5,
+        "correctAnswer": [
+            "Sat"
+        ],
+        "hint": "It appears on calendars."
+    },
+    {
+        "subject": "General",
+        "type": 1,
+        "question": "Which animal is nicknamed the 'ship of the desert'?",
+        "score": 9,
+        "choices": [
+            "Camel",
+            "Horse",
+            "Elephant",
+            "Donkey"
+        ],
+        "correctChoice": "Camel"
+    },
+    {
+        "subject": "General",
+        "type": 2,
+        "question": "Which Italian city is home to the Leaning Tower?",
+        "score": 11,
+        "correctAnswer": [
+            "Pisa"
+        ]
+    },
+    {
+        "subject": "Math",
+        "type": 1,
+        "question": "What is 12 multiplied by 8?",
+        "score": 10,
+        "choices": [
+            "80",
+            "88",
+            "96",
+            "108"
+        ],
+        "correctChoice": "96"
+    },
+    {
+        "subject": "Math",
+        "type": 2,
+        "question": "Solve for x: 2x + 6 = 18.",
+        "score": 12,
+        "correctAnswer": [
+            "6"
+        ]
+    },
+    {
+        "subject": "Math",
+        "type": 1,
+        "question": "Which property states that a(b + c) = ab + ac?",
+        "score": 9,
+        "choices": [
+            "Associative",
+            "Distributive",
+            "Commutative",
+            "Identity"
+        ],
+        "correctChoice": "Distributive"
+    },
+    {
+        "subject": "Math",
+        "type": 2,
+        "question": "What is the square root of 144?",
+        "score": 8,
+        "correctAnswer": [
+            "12"
+        ]
+    },
+    {
+        "subject": "Math",
+        "type": 3,
+        "question": "The angles inside any triangle always add up to 200 degrees.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "False"
+    },
+    {
+        "subject": "Math",
+        "type": 3,
+        "question": "The number pi is an irrational number.",
+        "score": 7,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "Math",
+        "type": 1,
+        "question": "What is the next prime number after 13?",
+        "score": 10,
+        "choices": [
+            "15",
+            "17",
+            "19",
+            "21"
+        ],
+        "correctChoice": "17"
+    },
+    {
+        "subject": "Math",
+        "type": 2,
+        "question": "Convert 0.75 to a fraction in simplest form.",
+        "score": 11,
+        "correctAnswer": [
+            "3/4",
+            "three fourths"
+        ],
+        "hint": "Think quarters of a whole."
+    },
+    {
+        "subject": "Math",
+        "type": 1,
+        "question": "If a = 5 and b = 3, what is a^2 - b^2?",
+        "score": 9,
+        "choices": [
+            "4",
+            "8",
+            "16",
+            "25"
+        ],
+        "correctChoice": "16"
+    },
+    {
+        "subject": "Math",
+        "type": 2,
+        "question": "What is the derivative of x^2 with respect to x?",
+        "score": 13,
+        "correctAnswer": [
+            "2x",
+            "2*x"
+        ]
+    },
+    {
+        "subject": "Technology",
+        "type": 1,
+        "question": "Which language primarily defines the structure of web pages?",
+        "score": 9,
+        "choices": [
+            "CSS",
+            "JavaScript",
+            "HTML",
+            "SQL"
+        ],
+        "correctChoice": "HTML"
+    },
+    {
+        "subject": "Technology",
+        "type": 1,
+        "question": "What does CPU stand for?",
+        "score": 12,
+        "choices": [
+            "Central Processing Unit",
+            "Core Power Utility",
+            "Compute Program Unit",
+            "Central Peripheral Unit"
+        ],
+        "correctChoice": "Central Processing Unit"
+    },
+    {
+        "subject": "Technology",
+        "type": 2,
+        "question": "Name the company that created the Android operating system.",
+        "score": 8,
+        "correctAnswer": [
+            "Google"
+        ],
+        "hint": "This company also owns YouTube."
+    },
+    {
+        "subject": "Technology",
+        "type": 2,
+        "question": "What do we call malicious software that locks files and demands payment?",
+        "score": 11,
+        "correctAnswer": [
+            "Ransomware"
+        ]
+    },
+    {
+        "subject": "Technology",
+        "type": 3,
+        "question": "Solid-state drives (SSDs) contain spinning disks and moving read heads.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "False"
+    },
+    {
+        "subject": "Technology",
+        "type": 3,
+        "question": "HTTPS encrypts the data sent between a browser and a website.",
+        "score": 7,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "Technology",
+        "type": 1,
+        "question": "Which keyboard shortcut copies selected text on Windows?",
+        "score": 8,
+        "choices": [
+            "Ctrl + P",
+            "Ctrl + X",
+            "Ctrl + C",
+            "Ctrl + Z"
+        ],
+        "correctChoice": "Ctrl + C"
+    },
+    {
+        "subject": "Technology",
+        "type": 2,
+        "question": "Which git command uploads local commits to a remote repository? (two words)",
+        "score": 10,
+        "correctAnswer": [
+            "git push"
+        ]
+    },
+    {
+        "subject": "Technology",
+        "type": 1,
+        "question": "What does USB stand for?",
+        "score": 9,
+        "choices": [
+            "Universal Serial Bus",
+            "Unified Signal Bridge",
+            "Universal Service Band",
+            "United Serial Bridge"
+        ],
+        "correctChoice": "Universal Serial Bus"
+    },
+    {
+        "subject": "Technology",
+        "type": 2,
+        "question": "Name the process of turning readable data into an unreadable format to protect it.",
+        "score": 12,
+        "correctAnswer": [
+            "Encryption"
+        ]
+    },
+    {
+        "subject": "Famous People",
+        "type": 1,
+        "question": "Who painted the Mona Lisa?",
+        "score": 9,
+        "choices": [
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Claude Monet"
+        ],
+        "correctChoice": "Leonardo da Vinci"
+    },
+    {
+        "subject": "Famous People",
+        "type": 1,
+        "question": "Which scientist developed the theory of relativity?",
+        "score": 10,
+        "choices": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Niels Bohr",
+            "Galileo Galilei"
+        ],
+        "correctChoice": "Albert Einstein"
+    },
+    {
+        "subject": "Famous People",
+        "type": 2,
+        "question": "Write the last name of the civil rights leader who delivered the 'I Have a Dream' speech.",
+        "score": 11,
+        "correctAnswer": [
+            "King"
+        ],
+        "hint": "His initials were M.L.K."
+    },
+    {
+        "subject": "Famous People",
+        "type": 2,
+        "question": "Who is often called the 'Father of Computers'? Give the full name or last name.",
+        "score": 12,
+        "correctAnswer": [
+            "Charles Babbage",
+            "Babbage"
+        ]
+    },
+    {
+        "subject": "Famous People",
+        "type": 3,
+        "question": "Marie Curie won two Nobel Prizes in different scientific fields.",
+        "score": 7,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "Famous People",
+        "type": 3,
+        "question": "Nelson Mandela once served as President of the United States.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "False"
+    },
+    {
+        "subject": "Famous People",
+        "type": 1,
+        "question": "Which explorer is credited with leading the first circumnavigation of the globe?",
+        "score": 10,
+        "choices": [
+            "Marco Polo",
+            "Ferdinand Magellan",
+            "Christopher Columbus",
+            "James Cook"
+        ],
+        "correctChoice": "Ferdinand Magellan"
+    },
+    {
+        "subject": "Famous People",
+        "type": 1,
+        "question": "Who wrote the play 'Hamlet'?",
+        "score": 9,
+        "choices": [
+            "Arthur Miller",
+            "William Shakespeare",
+            "Oscar Wilde",
+            "George Bernard Shaw"
+        ],
+        "correctChoice": "William Shakespeare"
+    },
+    {
+        "subject": "Famous People",
+        "type": 2,
+        "question": "Enter the stage name of singer Stefani Germanotta.",
+        "score": 10,
+        "correctAnswer": [
+            "Lady Gaga"
+        ]
+    },
+    {
+        "subject": "Famous People",
+        "type": 2,
+        "question": "Whose second law of motion is summarized by F = ma? Provide the last name.",
+        "score": 11,
+        "correctAnswer": [
+            "Newton",
+            "Isaac Newton"
+        ]
+    },
+    {
+        "subject": "Famous Events",
+        "type": 1,
+        "question": "In which year did the Apollo 11 moon landing take place?",
+        "score": 12,
+        "choices": [
+            "1965",
+            "1969",
+            "1972",
+            "1975"
+        ],
+        "correctChoice": "1969"
+    },
+    {
+        "subject": "Famous Events",
+        "type": 2,
+        "question": "Name the British passenger liner that sank after striking an iceberg in 1912.",
+        "score": 11,
+        "correctAnswer": [
+            "Titanic",
+            "RMS Titanic"
+        ]
+    },
+    {
+        "subject": "Famous Events",
+        "type": 3,
+        "question": "The Boston Tea Party took place after the American Revolution ended.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "False"
+    },
+    {
+        "subject": "Famous Events",
+        "type": 3,
+        "question": "The Berlin Wall fell in 1989, reuniting East and West Berlin.",
+        "score": 7,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "Famous Events",
+        "type": 1,
+        "question": "Which city hosted the first modern Olympic Games in 1896?",
+        "score": 9,
+        "choices": [
+            "Paris",
+            "Athens",
+            "London",
+            "Rome"
+        ],
+        "correctChoice": "Athens"
+    },
+    {
+        "subject": "Famous Events",
+        "type": 1,
+        "question": "Which event is widely credited with triggering World War I?",
+        "score": 10,
+        "choices": [
+            "Sinking of the Lusitania",
+            "Invasion of Poland",
+            "Assassination of Archduke Franz Ferdinand",
+            "Zimmermann Telegram"
+        ],
+        "correctChoice": "Assassination of Archduke Franz Ferdinand"
+    },
+    {
+        "subject": "Famous Events",
+        "type": 2,
+        "question": "Name the NASA Space Shuttle that broke apart shortly after liftoff in 1986.",
+        "score": 12,
+        "correctAnswer": [
+            "Challenger",
+            "Space Shuttle Challenger"
+        ]
+    },
+    {
+        "subject": "Famous Events",
+        "type": 2,
+        "question": "What was the codename for the Allied invasion of Normandy in 1944?",
+        "score": 11,
+        "correctAnswer": [
+            "Operation Overlord",
+            "Overlord"
+        ]
+    },
+    {
+        "subject": "Famous Events",
+        "type": 3,
+        "question": "The Great Depression began with the stock market crash of 1929.",
+        "score": 7,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "Famous Events",
+        "type": 2,
+        "question": "Which 1989 protest became known worldwide because of the 'Tank Man' image?",
+        "score": 10,
+        "correctAnswer": [
+            "Tiananmen Square",
+            "Tiananmen Square protests"
+        ]
+    },
+    {
+        "subject": "History",
+        "type": 1,
+        "question": "Who was the first President of the United States?",
+        "score": 9,
+        "choices": [
+            "Thomas Jefferson",
+            "George Washington",
+            "John Adams",
+            "James Madison"
+        ],
+        "correctChoice": "George Washington"
+    },
+    {
+        "subject": "History",
+        "type": 1,
+        "question": "Which ancient empire built Machu Picchu?",
+        "score": 10,
+        "choices": [
+            "Aztec",
+            "Inca",
+            "Maya",
+            "Olmec"
+        ],
+        "correctChoice": "Inca"
+    },
+    {
+        "subject": "History",
+        "type": 2,
+        "question": "In which year was the United States Declaration of Independence signed?",
+        "score": 12,
+        "correctAnswer": [
+            "1776"
+        ]
+    },
+    {
+        "subject": "History",
+        "type": 2,
+        "question": "What was the name of the trade route that linked China with the Mediterranean?",
+        "score": 11,
+        "correctAnswer": [
+            "Silk Road",
+            "The Silk Road"
+        ]
+    },
+    {
+        "subject": "History",
+        "type": 3,
+        "question": "Julius Caesar ruled as an emperor of Rome.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "False",
+        "hint": "He held the title of dictator."
+    },
+    {
+        "subject": "History",
+        "type": 3,
+        "question": "The Magna Carta limited the power of the English king.",
+        "score": 7,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "History",
+        "type": 1,
+        "question": "Which war formally ended with the Treaty of Versailles?",
+        "score": 10,
+        "choices": [
+            "World War I",
+            "World War II",
+            "Crimean War",
+            "Cold War"
+        ],
+        "correctChoice": "World War I"
+    },
+    {
+        "subject": "History",
+        "type": 1,
+        "question": "Which Chinese dynasty built much of the Great Wall seen today?",
+        "score": 9,
+        "choices": [
+            "Han",
+            "Ming",
+            "Qin",
+            "Tang"
+        ],
+        "correctChoice": "Ming"
+    },
+    {
+        "subject": "History",
+        "type": 2,
+        "question": "Name the Russian ruler nicknamed 'the Great' who modernized his country in the 1700s.",
+        "score": 10,
+        "correctAnswer": [
+            "Peter the Great",
+            "Peter"
+        ],
+        "hint": "He founded Saint Petersburg."
+    },
+    {
+        "subject": "History",
+        "type": 2,
+        "question": "What was the capital city of the Byzantine Empire?",
+        "score": 11,
+        "correctAnswer": [
+            "Constantinople"
+        ]
+    },
+    {
+        "subject": "Science",
+        "type": 1,
+        "question": "What process do plants use to convert sunlight into energy?",
+        "score": 10,
+        "choices": [
+            "Respiration",
+            "Photosynthesis",
+            "Fermentation",
+            "Transpiration"
+        ],
+        "correctChoice": "Photosynthesis"
+    },
+    {
+        "subject": "Science",
+        "type": 1,
+        "question": "What is the basic unit of heredity in living organisms?",
+        "score": 9,
+        "choices": [
+            "Cell",
+            "Chromosome",
+            "Gene",
+            "Protein"
+        ],
+        "correctChoice": "Gene"
+    },
+    {
+        "subject": "Science",
+        "type": 2,
+        "question": "What is the chemical symbol for gold?",
+        "score": 11,
+        "correctAnswer": [
+            "Au"
+        ]
+    },
+    {
+        "subject": "Science",
+        "type": 2,
+        "question": "Name the force that keeps planets in orbit around the Sun.",
+        "score": 10,
+        "correctAnswer": [
+            "Gravity"
+        ]
+    },
+    {
+        "subject": "Science",
+        "type": 3,
+        "question": "Adult humans have more than 200 bones in their bodies.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "Science",
+        "type": 3,
+        "question": "Sound travels faster through air than through water.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "False"
+    },
+    {
+        "subject": "Science",
+        "type": 1,
+        "question": "Which gas makes up the majority of Earth's atmosphere?",
+        "score": 9,
+        "choices": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Hydrogen"
+        ],
+        "correctChoice": "Nitrogen"
+    },
+    {
+        "subject": "Science",
+        "type": 1,
+        "question": "What part of a cell contains genetic material in the form of DNA?",
+        "score": 8,
+        "choices": [
+            "Cytoplasm",
+            "Cell wall",
+            "Nucleus",
+            "Mitochondria"
+        ],
+        "correctChoice": "Nucleus"
+    },
+    {
+        "subject": "Science",
+        "type": 2,
+        "question": "What term describes animals that are active primarily at night?",
+        "score": 10,
+        "correctAnswer": [
+            "Nocturnal"
+        ]
+    },
+    {
+        "subject": "Science",
+        "type": 2,
+        "question": "What pH value represents neutral water at room temperature?",
+        "score": 8,
+        "correctAnswer": [
+            "7",
+            "7.0"
+        ]
+    },
+    {
+        "subject": "General",
+        "type": 1,
+        "question": "Which continent is home to the Sahara Desert?",
+        "score": 9,
+        "choices": [
+            "Asia",
+            "Africa",
+            "South America",
+            "Europe"
+        ],
+        "correctChoice": "Africa"
+    },
+    {
+        "subject": "General",
+        "type": 1,
+        "question": "What is the tallest animal on Earth?",
+        "score": 8,
+        "choices": [
+            "Elephant",
+            "Giraffe",
+            "Polar Bear",
+            "Rhino"
+        ],
+        "correctChoice": "Giraffe"
+    },
+    {
+        "subject": "General",
+        "type": 2,
+        "question": "Name the author of the Harry Potter book series.",
+        "score": 10,
+        "correctAnswer": [
+            "J.K. Rowling",
+            "JK Rowling",
+            "Rowling"
+        ],
+        "hint": "Use the author's last name if unsure."
+    },
+    {
+        "subject": "General",
+        "type": 3,
+        "question": "The Great Barrier Reef sits off the coast of Australia.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "General",
+        "type": 1,
+        "question": "Which sport uses a shuttlecock?",
+        "score": 7,
+        "choices": [
+            "Badminton",
+            "Tennis",
+            "Cricket",
+            "Rugby"
+        ],
+        "correctChoice": "Badminton"
+    },
+    {
+        "subject": "General",
+        "type": 1,
+        "question": "What currency is used in Japan?",
+        "score": 8,
+        "choices": [
+            "Won",
+            "Yen",
+            "Dollar",
+            "Peso"
+        ],
+        "correctChoice": "Yen"
+    },
+    {
+        "subject": "General",
+        "type": 3,
+        "question": "A heptagon has eight sides.",
+        "score": 5,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "False",
+        "hint": "Think of the prefix hep-."
+    },
+    {
+        "subject": "General",
+        "type": 1,
+        "question": "Which city is nicknamed the 'Big Apple'?",
+        "score": 7,
+        "choices": [
+            "Chicago",
+            "Los Angeles",
+            "New York City",
+            "Boston"
+        ],
+        "correctChoice": "New York City"
+    },
+    {
+        "subject": "General",
+        "type": 2,
+        "question": "What metal makes up most modern United States pennies?",
+        "score": 9,
+        "correctAnswer": [
+            "Zinc"
+        ],
+        "hint": "They're only coated in copper."
+    },
+    {
+        "subject": "General",
+        "type": 2,
+        "question": "At standard pressure, what Celsius temperature does water boil?",
+        "score": 8,
+        "correctAnswer": [
+            "100",
+            "100c",
+            "100 c",
+            "100 degrees",
+            "100 degrees c"
+        ]
+    },
+    {
+        "subject": "Math",
+        "type": 1,
+        "question": "What is 15 squared?",
+        "score": 10,
+        "choices": [
+            "115",
+            "200",
+            "225",
+            "245"
+        ],
+        "correctChoice": "225"
+    },
+    {
+        "subject": "Math",
+        "type": 2,
+        "question": "Solve for y: 5y = 45.",
+        "score": 9,
+        "correctAnswer": [
+            "9"
+        ]
+    },
+    {
+        "subject": "Math",
+        "type": 3,
+        "question": "A rectangle is always a square.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "False"
+    },
+    {
+        "subject": "Math",
+        "type": 1,
+        "question": "What is the least common multiple of 6 and 8?",
+        "score": 11,
+        "choices": [
+            "12",
+            "18",
+            "24",
+            "30"
+        ],
+        "correctChoice": "24"
+    },
+    {
+        "subject": "Math",
+        "type": 2,
+        "question": "What is the derivative of sin(x)?",
+        "score": 12,
+        "correctAnswer": [
+            "cos(x)",
+            "cos x",
+            "cosx",
+            "cosine of x"
+        ]
+    },
+    {
+        "subject": "Math",
+        "type": 1,
+        "question": "What is (7!) / (5!)?",
+        "score": 10,
+        "choices": [
+            "35",
+            "42",
+            "56",
+            "63"
+        ],
+        "correctChoice": "42"
+    },
+    {
+        "subject": "Math",
+        "type": 2,
+        "question": "What is the slope of the line y = 4x + 2?",
+        "score": 8,
+        "correctAnswer": [
+            "4"
+        ]
+    },
+    {
+        "subject": "Math",
+        "type": 3,
+        "question": "The value of pi is exactly 3.14.",
+        "score": 5,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "False"
+    },
+    {
+        "subject": "Math",
+        "type": 1,
+        "question": "log10(1000) equals which value?",
+        "score": 9,
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "10"
+        ],
+        "correctChoice": "3"
+    },
+    {
+        "subject": "Math",
+        "type": 2,
+        "question": "Give the area of a circle with radius 3 (use pi as pi).",
+        "score": 12,
+        "correctAnswer": [
+            "9pi",
+            "9 pi",
+            "9*pi",
+            "9 times pi"
+        ]
+    },
+    {
+        "subject": "Technology",
+        "type": 1,
+        "question": "What is the primary purpose of RAM in a computer?",
+        "score": 9,
+        "choices": [
+            "Store long-term files",
+            "Provide temporary working memory",
+            "Display graphics",
+            "Connect to Wi-Fi"
+        ],
+        "correctChoice": "Provide temporary working memory"
+    },
+    {
+        "subject": "Technology",
+        "type": 2,
+        "question": "What does URL stand for?",
+        "score": 11,
+        "correctAnswer": [
+            "Uniform Resource Locator",
+            "uniform resource locator",
+            "URL"
+        ]
+    },
+    {
+        "subject": "Technology",
+        "type": 3,
+        "question": "Open-source software can be modified by anyone.",
+        "score": 7,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "Technology",
+        "type": 1,
+        "question": "Which company created the Windows operating system?",
+        "score": 8,
+        "choices": [
+            "Apple",
+            "Microsoft",
+            "IBM",
+            "Adobe"
+        ],
+        "correctChoice": "Microsoft"
+    },
+    {
+        "subject": "Technology",
+        "type": 2,
+        "question": "Which git command initializes a new repository?",
+        "score": 10,
+        "correctAnswer": [
+            "git init"
+        ]
+    },
+    {
+        "subject": "Technology",
+        "type": 1,
+        "question": "What does GPU stand for?",
+        "score": 9,
+        "choices": [
+            "General Processing Unit",
+            "Graphics Processing Unit",
+            "Global Performance Utility",
+            "Graphic Peripheral Unit"
+        ],
+        "correctChoice": "Graphics Processing Unit"
+    },
+    {
+        "subject": "Technology",
+        "type": 3,
+        "question": "IPv6 addresses are longer than IPv4 addresses.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "Technology",
+        "type": 1,
+        "question": "Which file extension is commonly used for Cascading Style Sheets?",
+        "score": 7,
+        "choices": [
+            ".js",
+            ".html",
+            ".css",
+            ".sql"
+        ],
+        "correctChoice": ".css"
+    },
+    {
+        "subject": "Technology",
+        "type": 2,
+        "question": "Name the markup language used to structure most web pages.",
+        "score": 8,
+        "correctAnswer": [
+            "HTML",
+            "HyperText Markup Language"
+        ]
+    },
+    {
+        "subject": "Technology",
+        "type": 1,
+        "question": "Which device routes data between different networks?",
+        "score": 9,
+        "choices": [
+            "Switch",
+            "Router",
+            "Hub",
+            "Modem"
+        ],
+        "correctChoice": "Router"
+    },
+    {
+        "subject": "Famous People",
+        "type": 1,
+        "question": "Who discovered penicillin?",
+        "score": 10,
+        "choices": [
+            "Alexander Fleming",
+            "Louis Pasteur",
+            "Marie Curie",
+            "Gregor Mendel"
+        ],
+        "correctChoice": "Alexander Fleming"
+    },
+    {
+        "subject": "Famous People",
+        "type": 2,
+        "question": "Write the last name of the physicist behind the uncertainty principle.",
+        "score": 11,
+        "correctAnswer": [
+            "Heisenberg"
+        ]
+    },
+    {
+        "subject": "Famous People",
+        "type": 3,
+        "question": "Cleopatra ruled as a queen of ancient Egypt.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "Famous People",
+        "type": 1,
+        "question": "Who was the first woman in space?",
+        "score": 10,
+        "choices": [
+            "Sally Ride",
+            "Valentina Tereshkova",
+            "Mae Jemison",
+            "Peggy Whitson"
+        ],
+        "correctChoice": "Valentina Tereshkova"
+    },
+    {
+        "subject": "Famous People",
+        "type": 2,
+        "question": "Enter the last name of the author of 'Pride and Prejudice'.",
+        "score": 9,
+        "correctAnswer": [
+            "Austen"
+        ]
+    },
+    {
+        "subject": "Famous People",
+        "type": 1,
+        "question": "Which civil rights leader refused to give up her bus seat in Montgomery?",
+        "score": 10,
+        "choices": [
+            "Harriet Tubman",
+            "Rosa Parks",
+            "Coretta Scott King",
+            "Ida B. Wells"
+        ],
+        "correctChoice": "Rosa Parks"
+    },
+    {
+        "subject": "Famous People",
+        "type": 3,
+        "question": "Beethoven was born completely deaf.",
+        "score": 5,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "False"
+    },
+    {
+        "subject": "Famous People",
+        "type": 1,
+        "question": "Who painted 'The Starry Night'?",
+        "score": 9,
+        "choices": [
+            "Vincent van Gogh",
+            "Claude Monet",
+            "Pablo Picasso",
+            "Salvador Dali"
+        ],
+        "correctChoice": "Vincent van Gogh"
+    },
+    {
+        "subject": "Famous People",
+        "type": 2,
+        "question": "Provide the stage name of singer Abel Tesfaye.",
+        "score": 10,
+        "correctAnswer": [
+            "The Weeknd",
+            "Weeknd"
+        ]
+    },
+    {
+        "subject": "Famous People",
+        "type": 1,
+        "question": "Who is credited with developing the first practical incandescent light bulb?",
+        "score": 9,
+        "choices": [
+            "Nikola Tesla",
+            "Thomas Edison",
+            "Michael Faraday",
+            "James Watt"
+        ],
+        "correctChoice": "Thomas Edison"
+    },
+    {
+        "subject": "Famous Events",
+        "type": 1,
+        "question": "In which year was the Berlin Wall constructed?",
+        "score": 11,
+        "choices": [
+            "1945",
+            "1950",
+            "1961",
+            "1975"
+        ],
+        "correctChoice": "1961"
+    },
+    {
+        "subject": "Famous Events",
+        "type": 2,
+        "question": "Name the first artificial Earth satellite launched in 1957.",
+        "score": 10,
+        "correctAnswer": [
+            "Sputnik",
+            "Sputnik 1",
+            "Sputnik-1"
+        ]
+    },
+    {
+        "subject": "Famous Events",
+        "type": 3,
+        "question": "The French Revolution began in 1789.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "Famous Events",
+        "type": 1,
+        "question": "Which ship transported the Pilgrims to North America in 1620?",
+        "score": 9,
+        "choices": [
+            "Santa Maria",
+            "Endeavour",
+            "Mayflower",
+            "Beagle"
+        ],
+        "correctChoice": "Mayflower"
+    },
+    {
+        "subject": "Famous Events",
+        "type": 2,
+        "question": "What was the code name for the evacuation of Dunkirk in 1940?",
+        "score": 11,
+        "correctAnswer": [
+            "Operation Dynamo",
+            "Dynamo"
+        ]
+    },
+    {
+        "subject": "Famous Events",
+        "type": 3,
+        "question": "The Cuban Missile Crisis occurred before World War II.",
+        "score": 5,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "False"
+    },
+    {
+        "subject": "Famous Events",
+        "type": 1,
+        "question": "Where were the 1936 Summer Olympics held?",
+        "score": 8,
+        "choices": [
+            "Rome",
+            "Berlin",
+            "Tokyo",
+            "Los Angeles"
+        ],
+        "correctChoice": "Berlin"
+    },
+    {
+        "subject": "Famous Events",
+        "type": 1,
+        "question": "Which treaty ended the American Revolutionary War?",
+        "score": 10,
+        "choices": [
+            "Treaty of Paris",
+            "Treaty of Versailles",
+            "Treaty of Ghent",
+            "Treaty of Utrecht"
+        ],
+        "correctChoice": "Treaty of Paris"
+    },
+    {
+        "subject": "Famous Events",
+        "type": 2,
+        "question": "What nickname was given to the stock market crash of October 29, 1929?",
+        "score": 9,
+        "correctAnswer": [
+            "Black Tuesday"
+        ]
+    },
+    {
+        "subject": "Famous Events",
+        "type": 3,
+        "question": "The Y2K problem became a concern at the turn of the millennium.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "History",
+        "type": 1,
+        "question": "Which military leader led elephants across the Alps to attack Rome?",
+        "score": 10,
+        "choices": [
+            "Julius Caesar",
+            "Hannibal",
+            "Scipio",
+            "Pompey"
+        ],
+        "correctChoice": "Hannibal"
+    },
+    {
+        "subject": "History",
+        "type": 2,
+        "question": "Name the Chinese philosopher whose teachings are collected in the 'Analects'.",
+        "score": 11,
+        "correctAnswer": [
+            "Confucius"
+        ]
+    },
+    {
+        "subject": "History",
+        "type": 3,
+        "question": "The Roman Colosseum was primarily used for staged naval battles.",
+        "score": 5,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "False"
+    },
+    {
+        "subject": "History",
+        "type": 1,
+        "question": "Which empire was ruled by Genghis Khan?",
+        "score": 9,
+        "choices": [
+            "Ottoman",
+            "Mongol",
+            "Persian",
+            "Macedonian"
+        ],
+        "correctChoice": "Mongol"
+    },
+    {
+        "subject": "History",
+        "type": 2,
+        "question": "In what year did the American Civil War end?",
+        "score": 11,
+        "correctAnswer": [
+            "1865"
+        ]
+    },
+    {
+        "subject": "History",
+        "type": 1,
+        "question": "Which female pharaoh ruled during Egypt's 18th dynasty?",
+        "score": 10,
+        "choices": [
+            "Nefertiti",
+            "Cleopatra",
+            "Hatshepsut",
+            "Sobekneferu"
+        ],
+        "correctChoice": "Hatshepsut"
+    },
+    {
+        "subject": "History",
+        "type": 3,
+        "question": "The Silk Road connected Europe and Asia.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "History",
+        "type": 1,
+        "question": "Which document begins with the words 'We the People'?",
+        "score": 8,
+        "choices": [
+            "Declaration of Independence",
+            "United States Constitution",
+            "Magna Carta",
+            "Bill of Rights"
+        ],
+        "correctChoice": "United States Constitution"
+    },
+    {
+        "subject": "History",
+        "type": 2,
+        "question": "Who was the British monarch during World War II?",
+        "score": 10,
+        "correctAnswer": [
+            "George VI",
+            "King George VI",
+            "George the Sixth"
+        ]
+    },
+    {
+        "subject": "History",
+        "type": 1,
+        "question": "Which ancient people carved the city of Petra into rock cliffs?",
+        "score": 9,
+        "choices": [
+            "Romans",
+            "Nabataeans",
+            "Greeks",
+            "Phoenicians"
+        ],
+        "correctChoice": "Nabataeans"
+    },
+    {
+        "subject": "Science",
+        "type": 1,
+        "question": "Which organ pumps blood throughout the human body?",
+        "score": 8,
+        "choices": [
+            "Brain",
+            "Liver",
+            "Heart",
+            "Lungs"
+        ],
+        "correctChoice": "Heart"
+    },
+    {
+        "subject": "Science",
+        "type": 2,
+        "question": "What is the chemical symbol for sodium?",
+        "score": 10,
+        "correctAnswer": [
+            "Na"
+        ]
+    },
+    {
+        "subject": "Science",
+        "type": 3,
+        "question": "Earth completes one revolution around the Sun in roughly 365 days.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "Science",
+        "type": 1,
+        "question": "Which gas do humans exhale in large amounts?",
+        "score": 7,
+        "choices": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon Dioxide",
+            "Helium"
+        ],
+        "correctChoice": "Carbon Dioxide"
+    },
+    {
+        "subject": "Science",
+        "type": 2,
+        "question": "Name the process where liquid water turns into vapor.",
+        "score": 9,
+        "correctAnswer": [
+            "Evaporation"
+        ]
+    },
+    {
+        "subject": "Science",
+        "type": 3,
+        "question": "Sound cannot travel through a vacuum.",
+        "score": 6,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "Science",
+        "type": 1,
+        "question": "Which planet is famous for its prominent rings?",
+        "score": 8,
+        "choices": [
+            "Mars",
+            "Saturn",
+            "Venus",
+            "Mercury"
+        ],
+        "correctChoice": "Saturn"
+    },
+    {
+        "subject": "Science",
+        "type": 2,
+        "question": "What scale is commonly used to measure earthquake magnitude?",
+        "score": 9,
+        "correctAnswer": [
+            "Richter",
+            "Richter scale"
+        ]
+    },
+    {
+        "subject": "Science",
+        "type": 3,
+        "question": "DNA stands for Deoxyribonucleic Acid.",
+        "score": 5,
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correctChoice": "True"
+    },
+    {
+        "subject": "Science",
+        "type": 1,
+        "question": "Which part of a plant performs most photosynthesis?",
+        "score": 7,
+        "choices": [
+            "Roots",
+            "Stem",
+            "Leaves",
+            "Flowers"
+        ],
+        "correctChoice": "Leaves"
+    }
+]

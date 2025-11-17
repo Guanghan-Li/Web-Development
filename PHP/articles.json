@@ -1,0 +1,63 @@
+[
+    {
+      "id": "1",
+      "title": "Build a Study Routine That Sticks",
+      "tags": [
+        "Habits",
+        "Productivity",
+        "Students"
+      ],
+      "content": "<p>Consistency beats intensity. A lightweight routine—same place, same time—removes decision fatigue and helps your brain slip into focus mode faster.</p><p>Start with a weekly template: plan deep work blocks, review sessions, and recovery time. Keep blocks short (25–50 minutes) with deliberate breaks to reset.</p><p>Use a simple system to capture tasks: one inbox, one planner, one calendar. If it isn’t captured, it won’t get done.</p><p>End each session with a two-minute shutdown: write what you finished, what’s blocked, and your first task for next time. Tomorrow-you will thank you.</p><footer><button type='button'>Download</button><nav class='footer-nav'><ul><li><a class='secondary' href='a.html'>Previous Article</a></li><li><a class='secondary' href='#top'>Go to Top</a></li><li><a class='primary' href='a.html'>Next Article</a></li></ul></nav></footer>"
+    },
+    {
+      "id": "2",
+      "title": "A Friendly Introduction to Machine Learning",
+      "tags": [
+        "AI",
+        "ML",
+        "Beginner"
+      ],
+      "content": "<p>Machine learning lets computers find patterns in data and make predictions. You feed examples in, the system learns a mapping, then evaluates on new inputs.</p><p>Supervised learning uses labeled examples (e.g., house price → number). Unsupervised learning finds structure without labels (e.g., grouping customers).</p><p>Start with the pipeline: define the problem, gather/clean data, choose a simple model, evaluate with a holdout set, and iterate. Simplicity first.</p><p>Beware overfitting: a model that memorizes the training set but fails on new data. Use cross-validation, regularization, and honest baselines.</p><footer><button type='button'>Download</button><nav class='footer-nav'><ul><li><a class='secondary' href='a.html'>Previous Article</a></li><li><a class='secondary' href='#top'>Go to Top</a></li><li><a class='primary' href='a.html'>Next Article</a></li></ul></nav></footer>"
+    },
+    {
+      "id": "3",
+      "title": "Hit Straighter Golf Shots: A Practical Guide",
+      "tags": [
+        "Golf",
+        "Skills",
+        "Practice"
+      ],
+      "content": "<p>Straight shots start with a square clubface at impact. Use an alignment stick along your target line and match your toe line parallel to it.</p><p>Grip pressure should be firm-but-relaxed; death-gripping adds tension and manipulates the face. Focus on a smooth tempo—count 1-2 on the backswing, 3 on the downswing.</p><p>Practice a stock shot: small fade or draw. Consistency in one direction reduces big misses. Track start line and curve with a notebook or app.</p><p>Build a 30-ball routine: 10 warm-up, 10 technical (slow reps), 10 play-like (pre-shot routine). Finish by noting one feel that worked today.</p><footer><button type='button'>Download</button><nav class='footer-nav'><ul><li><a class='secondary' href='a.html'>Previous Article</a></li><li><a class='secondary' href='#top'>Go to Top</a></li><li><a class='primary' href='a.html'>Next Article</a></li></ul></nav></footer>"
+    },
+    {
+      "id": "4",
+      "title": "Launch a Simple Portfolio Website in a Weekend",
+      "tags": [
+        "Web",
+        "HTML",
+        "Career"
+      ],
+      "content": "<p>A clean, fast portfolio showcases your work better than a flashy theme. Start with semantic HTML, mobile-first CSS, and minimal JavaScript.</p><p>Make the homepage a clear elevator pitch: who you are, what you do, and your top 3 projects with crisp screenshots and short case studies.</p><p>Add a lightweight blog for process notes. Write as you build—people love honest narratives about constraints, tradeoffs, and outcomes.</p><p>Ship early: deploy on a static host, set up a custom domain, and add analytics. Iterate weekly instead of waiting for perfect.</p><footer><button type='button'>Download</button><nav class='footer-nav'><ul><li><a class='secondary' href='a.html'>Previous Article</a></li><li><a class='secondary' href='#top'>Go to Top</a></li><li><a class='primary' href='a.html'>Next Article</a></li></ul></nav></footer>"
+    },
+    {
+      "id": "5",
+      "title": "Time Management Essentials for Busy Students",
+      "tags": [
+        "Time",
+        "School",
+        "Focus"
+      ],
+      "content": "<p>Plan the week before it starts. On Sundays, map deadlines and energy levels to pick the right task for the right moment.</p><p>Batch similar tasks: email, readings, problem sets. Context switching is expensive; batching lowers the cognitive tax.</p><p>Protect focus with boundaries: notifications off, do-not-disturb on, and a visible timer. Leave a visible sign for roommates during deep work.</p><p>Review daily in five minutes: capture new tasks, prune the list, and schedule one meaningful win for tomorrow.</p><footer><button type='button'>Download</button><nav class='footer-nav'><ul><li><a class='secondary' href='a.html'>Previous Article</a></li><li><a class='secondary' href='#top'>Go to Top</a></li><li><a class='primary' href='a.html'>Next Article</a></li></ul></nav></footer>"
+    },
+    {
+      "id": "6",
+      "title": "Debugging JavaScript 101",
+      "tags": [
+        "JavaScript",
+        "Debugging",
+        "Frontend"
+      ],
+      "content": "<p>Start with a reproduction. Strip the code to the smallest failing example—if you can’t reproduce, you can’t reason.</p><p>Use the browser devtools: console, network panel, and breakpoints. Step through code to inspect state rather than guessing.</p><p>Check the data flow: inputs, transformations, outputs. Log at boundaries with clear prefixes so noise doesn’t drown the signal.</p><p>Write a test that fails, fix the bug, then watch the test pass. Leave the test in place to guard against regressions.</p><footer><button type='button'>Download</button><nav class='footer-nav'><ul><li><a class='secondary' href='a.html'>Previous Article</a></li><li><a class='secondary' href='#top'>Go to Top</a></li><li><a class='primary' href='a.html'>Next Article</a></li></ul></nav></footer>"
+    }
+  ]
+  

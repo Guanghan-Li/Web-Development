@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Challenge Quiz</title>
+    <link rel="stylesheet" href="quiz.css">
+</head>
+<body>
+    <header id="heroHeader" class="hero">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <div class="logo-wrap" id="logoWrap">
+                <div class="logo-fallback" id="logoFallback">SCU</div>
+                <img src="images/scu_logo.png" alt="Santa Clara University logo" class="logo" id="logoImage">
+            </div>
+            <div class="hero-text">
+                <h1>Daily Challenge Quiz</h1>
+                <div class="hero-meta">
+                    <span id="subjectLine">Subject: General</span>
+                    <span id="currentDate">Sunday, January 1, 2025</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <section class="scoreboard" id="scoreboard">
+        <div class="progress-dots" id="progressDots"></div>
+        <div class="score-line" id="scoreLine">Score: 0 / 0 (0%) - Question 0 / 10</div>
+        <div class="progress-track">
+            <div class="progress-bar" id="progressBar"></div>
+        </div>
+    </section>
+
+    <main>
+        <section class="quiz-card">
+            <div id="startScreen" class="view">
+                <h2>Today's Theme</h2>
+                <p id="startDescription">General knowledge spotlight today.<br><br>10 Questions, picked randomly.</p>
+                <button id="startBtn">Start Today's Quiz</button>
+            </div>
+
+            <div id="quizScreen" class="view hidden">
+                <div class="question-header">
+                    <p id="questionCounter">Question 1 of 10</p>
+                    <p id="questionMeta">Type: Multiple Choice &middot; Value: 10 pts</p>
+                </div>
+                <h2 id="questionText">Question will appear here.</h2>
+                <div id="hintBlock" class="hint hidden">
+                    <button id="hintBtn">Show hint</button>
+                    <p id="hintText"></p>
+                </div>
+                <div id="answerArea" class="answers"></div>
+                <p id="feedback" class="feedback"></p>
+                <div class="buttons">
+                    <button id="submitBtn" disabled>Submit</button>
+                    <button id="nextBtn" disabled>Next Question</button>
+                    <button id="stopBtn" class="ghost">Stop Quiz</button>
+                </div>
+            </div>
+
+            <div id="endScreen" class="view hidden">
+                <h2>Quiz Complete</h2>
+                <p id="finalScore">You scored 0 out of 0 points.</p>
+                <p id="finalPercent">Percentage: 0%</p>
+                <p id="finalMessage">Nice run. Come back tomorrow for a new subject.</p>
+                <button id="restartBtn">Restart</button>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; <span id="currentYear"></span> Guanghan Li</p>
+        <p>Contact: <a href="mailto:gli4@scu.edu">gli4@scu.edu</a></p>
+    </footer>
+
+    <script src="quiz.js" defer></script>
+</body>
+</html>
