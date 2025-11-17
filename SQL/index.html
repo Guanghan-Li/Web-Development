@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Index Page</title>
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/index.css">
+  </head>
+  <body>
+    <aside>
+      <figure>
+        <img class="self" src="./image/self.jpeg" alt="Pic of Self"/>
+      </figure>
+
+      <ul>
+        <li><a href="https://www.linkedin.com/in/guanghanli/"><img class="logo" src="./image/linkedin.png" alt="LinkedIn"></a></li>
+        <li><a href="https://www.instagram.com/supergary21/"><img class="logo" src="./image/insta.png" alt="Instagram"></a></li>
+      </ul>
+
+      <header>
+        <h2>Guanghan Li</h2>
+      </header>
+
+      <p>
+        I am currently a Computer Science student graduating in Fall 2025. I am passionate about using technology to help my community, and have volunteered in the past to support people struggling with math as well as assisted others with job applications and resume building. I enjoy building new things that make a difference and solving real-world problems. I hope to utilize my CS and AI skills to further improve and support my community.
+      </p>
+    </aside>
+
+    <main>
+      <header>
+        <h1 id="latest-title"></h1>
+        <ul id="latest-tags" class="tags"></ul>
+        <!-- Optional time placeholder; leave empty or set manually -->
+        <p><time id="latest-time" datetime=""></time></p>
+      </header>
+
+      <!-- PHP will inject the latest article HTML here -->
+      <article id="latest-body"></article>
+
+      <footer>
+        <nav class="footer-nav">
+          <ul>
+            <li><a class="secondary" id="view-all-link" href="./articles.php">View All</a></li>
+            <li><a class="primary" id="continue-link" href="#">Continue Reading</a></li>
+          </ul>
+        </nav>
+      </footer>
+    </main>
+  </body>
+</html>

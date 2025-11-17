@@ -1,0 +1,11 @@
+RewriteEngine On
+
+# Don't rewrite if the file or directory exists
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Rewrite rules for clean URLs
+RewriteRule ^index$ index.php [L]
+RewriteRule ^home$ home.php [L]
+RewriteRule ^article$ article.php [L]
+RewriteRule ^articles$ articles.php [L]
